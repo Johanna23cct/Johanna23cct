@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @Johanna23cct
-- 👀 I’m interested in learn GITHUB
-- 🌱 I’m currently learning Python, Git and GITHUB, virtualboy, visual studio code, and more
-- 💞️ I’m looking to collaborate on GITHUB for beginners
-- 📫 How to reach me goals
+CA1 Integrated with Big Data, Individual 40% of Grade
+In this continuous assessment, you are expected to carry out research and produce a research paper based on your chosen topic combining Advanced data analytics (specifically Neural Networks) and Big Data Storage & Processing. Some example topics of interest include, but are not limited to
 
+•	Deep Learning using Big Data
+•	Big data architectures that incorporate Neural Networks
+•	Programming paradigms for Data Analytics
+•	Data streaming / encoding / compression
+•	Algorithms for parallel and distributed computing
+•	Application of distributed computing and Neural Networks for specific domains / problem areas / use cases
+•	Data Lakes
 
